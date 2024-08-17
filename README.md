@@ -1,4 +1,4 @@
-# Gemini-LLM-
+# Gemini-LLM-Application
 This is an Google-Generativeai application which can take user input(Question) and generate some response regarding to the user input,
 and I've used streamlit library for creating quick or less coded User Interface.
 
